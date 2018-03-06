@@ -36,6 +36,10 @@ CHANGELOG
 
 * Show total path length in path list
 
+**Bug fixes**
+
+* Fix geojson format in sensitive areas API
+
 
 2.17.2 (2018-02-07)
 -------------------
